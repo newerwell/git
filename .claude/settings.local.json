@@ -4,7 +4,11 @@
       "Bash(git config *)",
       "Bash(git remote *)",
       "Bash(git add *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(git reset *)",
+      "Bash(git switch *)",
+      "Bash(git merge *)",
+      "Bash(git worktree *)"
     ]
   }
 }
